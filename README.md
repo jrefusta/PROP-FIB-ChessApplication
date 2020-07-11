@@ -6,9 +6,9 @@ That year, the subject consisted in creating a desktop chess application in a th
 
 We wrote a document explaining the Java classes that we used and the IA algorithm, and other document as manual to know how to use the desktop application. You can see them in the following links:
 
-First document: github.com/jrefusta/PROP-FIB-ChessApplication/blob/master/Proyecto/docs/Práctica%20de%20Prop.pdf
+First document: www.github.com/jrefusta/PROP-FIB-ChessApplication/blob/master/Proyecto/docs/Práctica%20de%20Prop.pdf
 
-Manual: github.com/jrefusta/PROP-FIB-ChessApplication/blob/master/Proyecto/docs/Manual.pdf
+Manual: www.github.com/jrefusta/PROP-FIB-ChessApplication/blob/master/Proyecto/docs/Manual.pdf
 
 Some photos of the application: 
 
