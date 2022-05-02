@@ -4,7 +4,7 @@ University project done during the PROP subject in FIB, UPC. 2018-2019
  
 That year, the subject consisted in creating a desktop chess application in a three group with its own interface and IA using the Java programming language. It was a great effort to program the AI using Minimax algorithm and other stuff. You can try it just clicking the .jar.
 
-We wrote a document explaining the Java classes that we used and the IA algorithm, and other document as manual to know how to use the desktop application. You can see them here the [first document](www.github.com/jrefusta/PROP-FIB-ChessApplication/blob/master/Proyecto/docs/Práctica%20de%20Prop.pdf) and the [manual]( www.github.com/jrefusta/PROP-FIB-ChessApplication/blob/master/Proyecto/docs/Manual.pdf).
+We wrote a document explaining the Java classes that we used and the IA algorithm, and other document as manual to know how to use the desktop application. You can see  here the [first document](www.github.com/jrefusta/PROP-FIB-ChessApplication/blob/master/Proyecto/docs/Práctica%20de%20Prop.pdf) and the [manual]( www.github.com/jrefusta/PROP-FIB-ChessApplication/blob/master/Proyecto/docs/Manual.pdf).
 
 Some pictures of the application: 
 
